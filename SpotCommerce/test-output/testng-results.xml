@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-07T00:21:27 IST" name="Default suite" finished-at="2023-01-07T00:22:55 IST" duration-ms="88429">
+    <groups>
+    </groups>
+    <test started-at="2023-01-07T00:21:27 IST" name="Default test" finished-at="2023-01-07T00:22:55 IST" duration-ms="88429">
+      <class name="woocommerce.ProductCreate">
+        <test-method is-config="true" signature="LaunchApplication()[pri:0, instance:woocommerce.ProductCreate@1e1a0406]" started-at="2023-01-07T00:21:27 IST" name="LaunchApplication" finished-at="2023-01-07T00:21:31 IST" duration-ms="4045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplication -->
+        <test-method signature="createProduct()[pri:0, instance:woocommerce.ProductCreate@1e1a0406]" started-at="2023-01-07T00:21:31 IST" name="createProduct" finished-at="2023-01-07T00:22:55 IST" duration-ms="84337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProduct -->
+      </class> <!-- woocommerce.ProductCreate -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
